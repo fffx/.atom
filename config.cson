@@ -1,0 +1,21 @@
+"*":
+  "atom-fuzzy-grep":
+    preserveLastSearch: true
+  core:
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 12
+    showInvisibles: true
+  "git-diff":
+    showIconsInEditorGutter: true
+  "git-plus":
+    commits:
+      verboseCommits: true
+  minimap:
+    plugins:
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  welcome:
+    showOnStartup: false
